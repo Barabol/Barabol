@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barabol
 - 👀 I’m interested in living
 - 🌱 I’m currently learning JS/PY/Rust/C++/HTML/CSS/TS
-- 💞️ I’m looking to collaborate on <False>
+- 💞️ I’m looking to collaborate on [False]
 - 📫 How to reach me NaN
 
 <!---
