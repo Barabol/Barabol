@@ -1,2 +1,4 @@
-![Barabol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barabol&show_icons=true&theme=gruvbox)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barabol&langs_count=3&theme=gruvbox)</br>
+<table>
+<tr>![Barabol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barabol&show_icons=true&theme=gruvbox)</tr>
+  <tr>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barabol&langs_count=3&theme=gruvbox)</tr>
+</table>
