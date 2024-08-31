@@ -4,3 +4,4 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Barabol&theme=gruvbox)
 
+![horse-plinko](https://github.com/user-attachments/assets/becb8e54-96a3-4db4-9589-4e3046c6372a)
